@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+    flex-direction: row;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+    flex-direction: row;
+}
+
+a{
+    margin: 0px 40px;
+}

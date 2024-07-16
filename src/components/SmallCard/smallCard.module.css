@@ -1,0 +1,26 @@
+.container{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.childBox{
+    border-radius: 16px;
+    Width: 245px;
+    Height: 160px;
+    border: 1px solid #EEEEEE;
+    padding: 20px;
+    text-align: left;
+    /* background-color: #EEEEEE;
+    filter: blur(1px);  */
+    background-color: transparent;
+}
+
+p{
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Segoe UI';
+}
